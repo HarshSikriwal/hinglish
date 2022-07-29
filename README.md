@@ -6,4 +6,6 @@ The following image shows how a loop, variable initialization and basic mathemat
 
 ![image](./carbon.png)
 
+See file `run.js` for instructions on how to run your own hinglish code.
+
 
